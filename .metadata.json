@@ -1,5 +1,9 @@
 [
   {
+    "package": "GREMLINS",
+    "oncran": true
+  },
+  {
     "package": "missSBM",
     "oncran": true
   },

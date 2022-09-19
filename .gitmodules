@@ -8,11 +8,6 @@
 	url = https://github.com/grosssbm/gremlins
 	shallow = true
 	registered = true
-[submodule "missSBM"]
-	path = missSBM
-	url = https://github.com/grosssbm/misssbm
-	shallow = true
-	registered = true
 [submodule "sbm"]
 	path = sbm
 	url = https://github.com/grosssbm/sbm

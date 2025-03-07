@@ -5,6 +5,9 @@
 [submodule "GREMLINS"]
 	path = GREMLINS
 	url = https://github.com/grosssbm/gremlins
+[submodule "blockmodels"]
+	path = blockmodels
+	url = https://github.com/grosssbm/blockmodels
 [submodule "missSBM"]
 	path = missSBM
 	url = https://github.com/grosssbm/misssbm

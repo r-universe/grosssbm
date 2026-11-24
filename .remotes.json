@@ -1,0 +1,9 @@
+[
+  {
+    "package": "GREMLINS",
+    "url": "https://github.com/GrossSBM/GREMLINS",
+    "via": ["sbm"],
+    "branch": "dev/future-blockmodels",
+    "from": "sbm"
+  }
+]
